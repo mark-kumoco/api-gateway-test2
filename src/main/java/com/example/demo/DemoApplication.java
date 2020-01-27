@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 //@SpringBootApplication
 //@ImportResource({"classpath:spring/camel-context.xml"})
 //@EnableSwagger2
-@RestController
+/*@RestController
 public class DemoApplication {
 
 	@RequestMapping("/hello")
@@ -18,3 +18,4 @@ public class DemoApplication {
 	}
 
 }
+*/
